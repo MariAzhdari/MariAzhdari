@@ -1,7 +1,8 @@
                                                   Hello World I am Marziyeh  👋
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 - 🌱 I’m currently a Full Stack Developer trainee in London.
 - 💞️ I'm looking to improve my coding skill.
