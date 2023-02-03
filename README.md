@@ -1,5 +1,6 @@
                                                   Hello World I am Marziyeh  👋
-
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently a Full Stack Developer trainee in London.
 - 💞️ I'm looking to improve my coding skill.
@@ -14,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
 
 📈 my github stats
