@@ -1,10 +1,10 @@
                                                   Hello World I am Marziyeh  👋
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
- 🌱 I’m currently a Full Stack Developer trainee in London.
--  💞️ I'm looking to improve my coding skill.
+- 🌱 I’m currently a Full Stack Developer trainee in London.
+- 💞️ I'm looking to improve my coding skill.
 - 😄My interest: Coding, learning a new skill, Swimming, walking, cooking, cycling, reading, science, and communicating with different people.
-- - 📫 You can reach me by email: mari.aghchay@gmail.com
+- 📫 You can reach me by email: mari.aghchay@gmail.com
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
